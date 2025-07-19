@@ -29,6 +29,7 @@
     - Macchiato
     - Mocha
 - Supports all Catppuccin accent colors
+- Uses JetBrains Mono font for code
 
 ## 🚀 Installation
 You have to install [Stylus](https://add0n.com/stylus.html) and then click on the install link below. <br/><br/>
