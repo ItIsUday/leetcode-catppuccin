@@ -318,6 +318,10 @@
         background: var(--bg);
     }
 
+    :is(.dark .dark\:bg-dark-blocker) {
+        background-color: var(--bg);
+    }
+
     .bg-overlay-2,
     .bg-overlay-3,
     .bg-overlay-4,
